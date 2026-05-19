@@ -1,6 +1,6 @@
 # Bikrant Shilpakar – CV / Resume
 
-🔗 **Live CV:** [https://bikrant0.github.io/cv/](https://bikrant0.github.io/cv/)
+🔗 **Live CV:** [https://bikrant0.github.io/cv/](https://bikrant0.github.io/CV/)
 
 ## 👋 About Me
 [Final-year Computer Science student (AI Specialisation) and aspiring Backend Developer with a strong foundation in designing RESTful APIs and building secure server-side systems.]
